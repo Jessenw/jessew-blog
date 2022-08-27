@@ -1,0 +1,7 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Jesse Williams'
+theme = 'paper'
+
+name = 'Jesse Williams'
+monoDarkIcon = true
